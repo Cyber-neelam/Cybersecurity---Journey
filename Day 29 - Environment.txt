@@ -1,0 +1,14 @@
+Day 29 - Environment
+
+Commands I tried
+
+printenv  
+show variables
+
+echo $PATH  
+check path
+
+---
+
+Question
+what is PATH?
