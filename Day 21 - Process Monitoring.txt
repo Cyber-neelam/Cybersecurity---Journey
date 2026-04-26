@@ -1,0 +1,17 @@
+Day 21 - Process Monitoring
+
+Commands I tried
+
+top  
+real time processes
+
+ps aux  
+all processes
+
+htop  
+better view
+
+---
+
+Question
+which command is better for monitoring?
