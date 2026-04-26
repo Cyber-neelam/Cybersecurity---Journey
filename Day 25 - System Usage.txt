@@ -1,0 +1,17 @@
+Day 25 - System Usage
+
+Commands I tried
+
+df -h  
+disk space
+
+free -h  
+memory usage
+
+du -sh *  
+folder size
+
+---
+
+Question
+difference between disk and memory?
