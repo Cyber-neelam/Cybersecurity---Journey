@@ -1,0 +1,14 @@
+Day 24 - Archive Commands
+
+Commands I tried
+
+tar -czvf file.tar.gz folder  
+compress
+
+tar -xzvf file.tar.gz  
+extract
+
+---
+
+Question
+what is tar.gz?
