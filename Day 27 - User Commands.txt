@@ -1,0 +1,17 @@
+Day 27 - User Commands
+
+Commands I tried
+
+sudo -l  
+check sudo access
+
+whoami  
+current user
+
+id  
+user info
+
+---
+
+Question
+what is sudo?
