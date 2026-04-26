@@ -1,0 +1,11 @@
+Day 20 - Download Commands
+
+Commands i tried 
+
+wget http://example.com/file.txt
+download using curl 
+
+---
+
+Question
+What is the difference between wget and curl?
