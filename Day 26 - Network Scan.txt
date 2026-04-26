@@ -1,0 +1,14 @@
+Day 26 - Network Scan
+
+Commands I tried
+
+nmap 127.0.0.1  
+scan local
+
+nmap -F 127.0.0.1  
+fast scan
+
+---
+
+Question
+what is port scanning?
