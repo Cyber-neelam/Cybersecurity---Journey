@@ -1,0 +1,14 @@
+Day 28 - Log Commands
+
+Commands I tried
+
+cat /var/log/syslog  
+view logs
+
+tail -f /var/log/syslog  
+live logs
+
+---
+
+Question
+why logs are important?
