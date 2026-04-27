@@ -1,0 +1,21 @@
+Day 31 - Mini Project
+
+Commands I used
+
+uname -a  
+whoami  
+uptime  
+date  
+
+---
+
+Output
+this script shows basic system information
+
+Usage
+run ./system-info.sh to see output
+
+---
+
+Question
+how can we automate system tasks?
