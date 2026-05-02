@@ -42,3 +42,19 @@ This is a beginner-friendly journey where I am learning and practicing daily.
 ## 🔗 Connect with me
 
 I will be sharing my journey on LinkedIn soon 🚀
+
+
+---
+
+Day Restart - Directory Check Script
+
+Commands I used
+
+read  
+if condition  
+-d  
+
+---
+
+Output
+this script checks if a directory exists or not
