@@ -1,60 +1,26 @@
-# 💻 Cybersecurity Journey
 
-Welcome to my 30 Days Cybersecurity Learning Journey 🚀  
+# Linux System Monitoring Commands
 
-In this repository, I am documenting my daily progress while learning cybersecurity step by step using practical commands and concepts.
+## 📌 Commands Used
 
----
+### 1. ps  
+Displays currently running processes.
 
-## 📅 Progress
+### 2. top  
+Shows real-time system processes and resource usage.
 
-- Day 1 - Basic Networking  
-- Day 2 - Linux Basics  
-- Day 3 - Networking Commands  
-- Day 4 - Linux Permissions  
-- Day 5 - Package Management  
-- Day 6 - File Compression  
-- Day 7 - Network Info Commands  
+### 3. df -h  
+Displays disk space usage in human-readable format.
 
----
-
-## 🛠️ What I’m Learning
-
-- Linux Commands  
-- Networking Basics  
-- Security Concepts  
-- Hands-on Practice  
+### 4. du -sh *  
+Shows size of files and directories.
 
 ---
 
-## 🎯 Goal
-
-To build a strong foundation in cybersecurity and improve my practical skills step by step.
-
----
-
-## 📌 Note
-
-This is a beginner-friendly journey where I am learning and practicing daily.
+## 🎯 Learning Outcome
+These commands help in monitoring system performance and understanding resource usage in Linux.
 
 ---
 
-## 🔗 Connect with me
+📚 Continuing my cybersecurity learning journey with hands-on Linux practice 🚀
 
-I will be sharing my journey on LinkedIn soon 🚀
-
-
----
-
-Day Restart - Directory Check Script
-
-Commands I used
-
-read  
-if condition  
--d  
-
----
-
-Output
-this script checks if a directory exists or not
